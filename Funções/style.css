@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(221, 199, 241);
+}
+
+h1{
+    margin-top: 200px;
+    text-align: center;
+    color: blueviolet;
+    font-size: 100px;
+}
+
+.btn{
+    margin-left: 80px;
+    margin-top: 250px;
+}
+
+#nota1{
+    width:200px;
+    height: 40px;
+    border: solid black;
+    border-radius: 5px;
+}
+#nota2{
+    width:200px;
+    height: 40px;
+    border: solid black;
+    border-radius: 5px;
+    margin: 15px;
+}
+#nota3{
+    width:200px;
+    height: 40px;
+    border: solid black;
+    border-radius: 5px;
+    margin: 15px;
+}
+#nota4{
+    width:200px;
+    height: 40px;
+    border: solid black;
+    border-radius: 5px;
+    margin: 15px;
+}
+#nota5{
+    width:200px;
+    height: 40px;
+    border: solid black;
+    border-radius: 5px;
+    margin: 15px;
+
+}
+button{
+    width:200px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid black;
+    font-size: 25px;
+    font-style: italic;
+}
+
+button:hover{
+    background-color: blueviolet;
+}
